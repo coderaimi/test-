@@ -1,16 +1,14 @@
-# Day 3 - Control Flow and Logical Operators
-
+# Day 1 - Working with Variables in Python to Manage Data
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-3-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-2-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-3-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-4-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-5-exercise#main.py
+- https://repl.it/@lenargasimov/day-1-1-exercise
+- https://repl.it/@lenargasimov/day-1-2-exercise
+- https://repl.it/@lenargasimov/day-1-3-exercise
+- https://repl.it/@lenargasimov/day-1-4-exercise
 
-## Treasure Island
+## Band Name Generator
 
-![treasure island](treasure_island.gif)
+![band name generator](band_name_generator.gif)
 
-https://repl.it/@lenargasimov/treasure-island-start#main.py
+https://repl.it/@lenargasimov/band-name-generator-end
